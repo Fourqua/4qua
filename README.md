@@ -1,6 +1,6 @@
-<h1 align="center">4𝖖𝖚𝖆</h1>
-<h2 align="center">𝕱𝖔𝖚𝖗-𝖖𝖚𝖆</h2>
-<h3 align="center">Game Developer in Progress • Denver, Colorado</h3>
+<h1 align="center">4𝔮𝔲𝔞</h1>
+
+<h3 align="center">Four-qua • Game Developer in Progress • Denver, Colorado</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Aspiring+Game+Developer;Future+Computer+Scientist;Building+Interactive+Worlds;Multiplayer+Systems+Engineer;Soccer+%2B+Code+%3D+Balance" />
