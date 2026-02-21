@@ -55,6 +55,10 @@
 <img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" height="44"/>
 </p>
 
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fourqua&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 <p align="center"> <img width="49%" src="https://streak-stats.demolab.com?user=Fourqua&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fourqua&theme=tokyo-night&hide_border=true"/> </p> <p align="center"> 
 
 ## Contact Me
