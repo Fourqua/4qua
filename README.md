@@ -9,11 +9,10 @@
 
 ## About Me
 
-- 🎮 Aspiring **Game Developer**
-- 💻 Future Computer Science major
-- 🏔 Based in Denver, Colorado
-- ⚽ Competitive soccer player
-- 🧩 I like building systems that feel alive
+- 🎮 I'm an aspiring **Game Developer**
+- 💻 I hope to major in **Computer Science**
+- 🏔 Based in Denver, **Colorado**
+- ⚽ I play competetive **Soccer**
 
 ---
 
@@ -60,11 +59,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=4qua&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com?user=4qua&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Fourqua&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4qua&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fourqua&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
