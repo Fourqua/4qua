@@ -51,7 +51,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="44"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="44"/>&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Roblox_Logo_2022.svg" height="44"/>&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/ios-filled/100/ffffff/roblox.png" height="44"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" height="44"/>
 </p>
 
