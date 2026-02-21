@@ -55,8 +55,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" height="44"/>
 </p>
 
-<p align="center"> <img width="49%" src="https://streak-stats.demolab.com?user=Fourqua&theme=tokyonight&hide_border=true"/> </p>
-
+<p align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fourqua&theme=tokyo-night&hide_border=true"/> </p> <p align="center"> 
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fourqua&theme=tokyonight"/>
@@ -67,7 +66,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fourqua&theme=tokyonight"/>
 </p>
 
-<p align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fourqua&theme=tokyo-night&hide_border=true"/> </p> <p align="center"> 
+<p align="center"> <img width="49%" src="https://streak-stats.demolab.com?user=Fourqua&theme=tokyonight&hide_border=true"/> </p>
 
 ## Contact Me
 
