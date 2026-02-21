@@ -13,16 +13,14 @@
 
 ## About Me
 
-- 🎮 Aspiring **Game Developer**
-- 💻 Future **Computer Science** major
+- 🎮 I'm an aspiring **Game Developer**
+- 💻 I want to major in **Computer Science**
 - 🏔 Based in **Denver, Colorado**
-- ⚽ Competitive **Soccer Player**
-- 🧠 I love designing systems that feel alive and scalable
-- 🚀 Long term goal: build games people remember
+- ⚽ I play Competitive **Soccer**
 
 ---
 
-## Tech Stack
+## Tech
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44"/>&nbsp;&nbsp;&nbsp;
@@ -58,5 +56,11 @@
 </p>
 
 ---
+
+<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fourqua&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/> <img width="49%" src="https://streak-stats.demolab.com?user=Fourqua&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fourqua&theme=tokyo-night&hide_border=true"/> </p> <p align="center"> <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Fourqua&theme=tokyonight&no-frame=true&row=1&column=6"/> </p>
+
+--
+
+## Contact Me
 
 <p align="center"> <a href="mailto:yourgmail@gmail.com"> <img src="https://img.shields.io/badge/Gmail-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://discord.com/users/YOUR_DISCORD_ID"> <img src="https://img.shields.io/badge/Discord-38BDF8?style=for-the-badge&logo=discord&logoColor=white"/> </a> <a href="https://youtube.com/@YOUR_CHANNEL"> <img src="https://img.shields.io/badge/YouTube-38BDF8?style=for-the-badge&logo=youtube&logoColor=white"/> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Fourqua&label=Profile%20Views&color=38BDF8&style=flat"/> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0f172a&height=120&section=footer"/> </p> ```
