@@ -1,5 +1,5 @@
 <h1 align="center">4qua</h1>
-<h3 align="center">Four-qua • Game Dev in Progress • Denver, Colorado</h3>
+<h3 align="center">Four-qua • Denver, Colorado</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Aspiring+Game+Developer;Future+Computer+Scientist;Building+Interactive+Worlds;Soccer+%2B+Code+%3D+Balance" />
