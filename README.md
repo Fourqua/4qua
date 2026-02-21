@@ -2,7 +2,11 @@
 <h3 align="center">Four-qua • Game Developer in Progress • Denver, Colorado</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Game+Developer;Future+Computer+Scientist;Building+Interactive+Worlds;Soccer+%2B+Code+%3D+Balance" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Aspiring+Game+Developer;Future+Computer+Scientist;Building+Interactive+Worlds;Multiplayer+Systems+Engineer;Soccer+%2B+Code+%3D+Balance" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38BDF8&height=120&section=header"/>
 </p>
 
 ---
@@ -13,7 +17,8 @@
 - 💻 Future **Computer Science** major
 - 🏔 Based in **Denver, Colorado**
 - ⚽ Competitive **Soccer Player**
-- 🧠 I enjoy building systems that feel alive
+- 🧠 I love designing systems that feel alive and scalable
+- 🚀 Long term goal: build games people remember
 
 ---
 
@@ -54,29 +59,4 @@
 
 ---
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fourqua&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=Fourqua&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fourqua&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Fourqua&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fourqua&label=Profile%20Views&color=38BDF8&style=flat"/>
-</p>
-
----
-
-## Current Focus
-
-```text
-• Multiplayer game systems
-• Physics-based mechanics
-• Procedural generation
-• Performance optimization
+<p align="center"> <a href="mailto:yourgmail@gmail.com"> <img src="https://img.shields.io/badge/Gmail-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://discord.com/users/YOUR_DISCORD_ID"> <img src="https://img.shields.io/badge/Discord-38BDF8?style=for-the-badge&logo=discord&logoColor=white"/> </a> <a href="https://youtube.com/@YOUR_CHANNEL"> <img src="https://img.shields.io/badge/YouTube-38BDF8?style=for-the-badge&logo=youtube&logoColor=white"/> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Fourqua&label=Profile%20Views&color=38BDF8&style=flat"/> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0f172a&height=120&section=footer"/> </p> ```
