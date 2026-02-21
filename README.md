@@ -1,4 +1,4 @@
-<h1 align="center">4qua</h1>
+<h1 align="center">4𝔮𝔲𝔞</h1>
 <h3 align="center">Four-qua • Aspiring Game Developer • Denver, Colorado</h3>
 
 <p align="center">
@@ -54,8 +54,6 @@
 </p>
 
 ---
-
-## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=4qua&show_icons=true&theme=tokyonight&hide_border=true"/>
