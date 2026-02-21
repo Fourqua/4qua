@@ -56,9 +56,18 @@
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Fourqua&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fourqua&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Fourqua&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fourqua&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fourqua&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Fourqua&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fourqua&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/> <img width="49%" src="https://streak-stats.demolab.com?user=Fourqua&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fourqua&theme=tokyo-night&hide_border=true"/> </p> <p align="center"> <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Fourqua&theme=tokyonight&no-frame=true&row=1&column=6"/> </p>
 
 ## Contact Me
