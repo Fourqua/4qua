@@ -1,4 +1,4 @@
-<h1 align="center">4qua</h1>
+<h1 align="center">4𝔮𝔲𝔞</h1>
 <h3 align="center">Four-qua • Game Developer in Progress • Denver, Colorado</h3>
 
 <p align="center">
