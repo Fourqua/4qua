@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fourqua&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fourqua&theme=tokyonight"/>
 </p>
 
 <p align="center"> <img width="49%" src="https://streak-stats.demolab.com?user=Fourqua&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fourqua&theme=tokyo-night&hide_border=true"/> </p> <p align="center"> 
