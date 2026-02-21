@@ -56,18 +56,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fourqua&theme=tokyonight&hide_border=true&show_icons=true&count_private=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fourqua&theme=tokyonight&hide_border=true&layout=compact"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fourqua&theme=tokyonight&no-frame=true&row=1"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fourqua&theme=tokyonight"/>
 </p>
 
